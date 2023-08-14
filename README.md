@@ -1,0 +1,1 @@
+# asnm7-component
